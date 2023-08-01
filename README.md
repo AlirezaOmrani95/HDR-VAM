@@ -38,9 +38,18 @@ Valid:
 Test:
     $ Same subfolders as Train $
 ```
+
 ### Train
 
 To train the model you need to change the train_dir and val_dir in the train.py file.
 
 ## Results
 ![alt text](https://raw.githubusercontent.com/AlirezaOmrani95/HDR-VAM/main/Images/Results.jpg)
+
+
+# Citation
+For more information please refer to the paper https://arxiv.org/abs/2307.14705. Additionally, if you use this code for your research, please cite our paper:
+
+```
+Omrani, Ali Reza; and Davide Moroni. "High Dynamic Range Imaging via Visual Attention Modules." arXiv preprint arXiv:2307.14705 (2023).
+```
