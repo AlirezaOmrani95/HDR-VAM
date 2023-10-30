@@ -1,0 +1,4 @@
+tensorflow==2.13.0
+tensorflow_probability==0.21.0
+numpy==1.22.2
+opencv-python==4.8.1.78
